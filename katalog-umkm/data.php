@@ -9,4 +9,5 @@ $daftarProduk = [
     ["kode" => "P04", "nama" => "Batik Tulis Parang", "kategori" => "Fashion", "harga" => 350000, "stok" => 3],
     ["kode" => "P05", "nama" => "Wedang Uwuh Instan", "kategori" => "Minuman", "harga" => 18000, "stok" => 25],
     ["kode" => "P06", "nama" => "Serabi <Notosuman>", "kategori" => "Makanan", "harga" => 30000, "stok" => 12],
+    ["kode" => "P07", "nama" => "Wayang Kulit", "kategori" => "Kerajinan", "harga" => 500000, "stok" => 5],
 ];

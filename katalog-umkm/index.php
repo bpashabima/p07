@@ -4,7 +4,7 @@ declare(strict_types=1);
 require __DIR__ . "/data.php";
 require __DIR__ . "/functions.php";
 
-$daftarKategori = ["Semua", "Makanan", "Minuman", "Fashion"];
+$daftarKategori = ["Semua", "Makanan", "Minuman", "Fashion", "Kerajinan"];
 $kategoriDipilih = $_GET["kategori"] ?? "Semua";
 
 if (!in_array($kategoriDipilih, $daftarKategori, true)) {
